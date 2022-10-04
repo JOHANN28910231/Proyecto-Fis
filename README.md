@@ -14,3 +14,27 @@
 <li>Jazmin Guadalupe Dzib Ake</li>
 <li>Valeria Leticia Puga Aguilar</li>
 <li>Blanca Itzel Medina Mex</li>
+
+##  Usuarios
+
+- ### Primarios:
+
+  Estudiantes de nuevo ingreso pertenecientes a la Universidad Autónoma de Yucatán en la Unidad Multidisciplinaria Tizimín
+
+- ### Secundarios:
+ Estudiantes en general pertenecientes a la Universidad Autónoma de Yucatán en la Unidad Multidisciplinaria Tizimín
+  
+  ##  Bitácoras de las sesiones
+
+####  Primer Sprint
+
+> - [19 de Septiembre del 2022]
+> - [22 de Septiembre del 2022]
+> - [29de Septiembre del 2022]
+> - [3 de Octubre del 2022]
+
+###  Primera entrega:
+
+- [ Diapositiva ]
+
+- [ Presentación ]
