@@ -39,7 +39,7 @@
 
 ####  Primer Sprint
 
-> - [19 de Septiembre del 2022]([REUNION.pptx](https://github.com/JOHANN28910231/Proyecto-Fis/files/9711495/REUNION.pptx "Click aquí").
+> - [19 de Septiembre del 2022](https://github.com/JOHANN28910231/Proyecto-Fis/files/9711495/REUNION.pptx "Click aquí").
 
 > - [22 de Septiembre del 2022]
 > - [29de Septiembre del 2022]
