@@ -27,6 +27,15 @@
 - ### Secundarios:
  Estudiantes en general pertenecientes a la Universidad Autónoma de Yucatán en la Unidad Multidisciplinaria Tizimín
   
+  ##  contenido }
+  
+  - Objetivos
+  - herramientas y métodos
+  - Roles y proceso de trabajo
+  - Casos de uso
+  - Requerimientos
+  - Bitacora
+   
   ##  Bitácoras de las sesiones
 
 ####  Primer Sprint
