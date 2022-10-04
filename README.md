@@ -1,5 +1,4 @@
-<p align="center">
-<p><h1>Proyecto-fis</h1></p>
+
 
 <p align="center">
 <p><h1>Rutas y Ubicación del Colectivo para Alumnos de Nuevo Ingreso</h1></p>
@@ -40,7 +39,8 @@
 
 ####  Primer Sprint
 
-> - [19 de Septiembre del 2022]
+> - [19 de Septiembre del 2022]([REUNION.pptx](https://github.com/JOHANN28910231/Proyecto-Fis/files/9711495/REUNION.pptx "Click aquí").
+
 > - [22 de Septiembre del 2022]
 > - [29de Septiembre del 2022]
 > - [3 de Octubre del 2022]
