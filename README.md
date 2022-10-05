@@ -4,7 +4,7 @@
 <p><h1>Rutas y Ubicación del Colectivo para Alumnos de Nuevo Ingreso</h1></p>
 <p>Prototipo de una App</p>
 <p align="center">
-<img src="images.jpg" alt="imagen del logo">
+<img src="https://user-images.githubusercontent.com/113213776/194173082-0102fbee-f173-45b3-b249-776f7db3fa4d.png" alt="imagen del logo">
 
 <h3>Integrantes</h3>
 <li>Johann Enrique Briceño Herrera</li>
