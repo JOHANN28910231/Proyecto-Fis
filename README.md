@@ -24,9 +24,9 @@
   ##  Contenido 
   
   - [Objetivos](Objetivo.md "Click aquí")
-  - Herramientas y métodos
-  - Roles y proceso de trabajo
-  - Casos de uso
+  - [Herramientas y métodos](5.HerramientasyMétodos.md "Click aquí")
+  - [Roles y proceso de trabajo](
+  - [Casos de uso](4.CasosDeUso.md "Click aquí")
   - Requerimientos
   - [Bitacora](https://github.com/JOHANN28910231/Proyecto-Fis/tree/main/Bit%C3%A1cora_Primera_Entrega)
   
