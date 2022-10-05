@@ -28,7 +28,8 @@
   - Roles y proceso de trabajo
   - Casos de uso
   - Requerimientos
-  - Bitacora
+  - [Bitacora](https://github.com/JOHANN28910231/Proyecto-Fis/tree/main/Bit%C3%A1cora_Primera_Entrega)
+  
    
   ##  Bitácoras de las sesiones
 
