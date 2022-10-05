@@ -26,7 +26,7 @@
 - ### Secundarios:
  Estudiantes en general pertenecientes a la Universidad Autónoma de Yucatán en la Unidad Multidisciplinaria Tizimín
   
-  ##  contenido }
+  ##  Contenido 
   
   - Objetivos
   - herramientas y métodos
@@ -39,7 +39,8 @@
 
 ####  Primer Sprint
 
-> - [19 de Septiembre del 2022](https://github.com/JOHANN28910231/Proyecto-Fis/files/9711495/REUNION.pptx "Click aquí").
+> - [19 de Septiembre del 2022](https://github.com/JOHANN28910231/Proyecto-Fis/files/9711614/REUNION1.md "Click aquí").
+
 
 > - [22 de Septiembre del 2022]
 > - [29de Septiembre del 2022]
