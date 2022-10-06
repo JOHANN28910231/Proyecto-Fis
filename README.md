@@ -42,7 +42,7 @@
   
   - [Casos de uso](https://github.com/JOHANN28910231/Proyecto-Fis/blob/71c6dc4dedc52d84e424567ca57b17972d9e54a6/Documentaci%C3%B3n/4.%20DiagramaCasosDeUso.md "Click aquí")
   
-  - [Competencias de la Asignatura]( "Click aquí")
+  - [Competencias de la Asignatura](https://github.com/JOHANN28910231/Proyecto-Fis/blob/bef61ef3da0d06b7f1da8a849e44ec5bf0df5207/Documentaci%C3%B3n/10.%20Competencias%20de%20la%20Asignatura.md "Click aquí")
   
   
   
