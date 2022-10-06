@@ -26,9 +26,10 @@
   
   - [Objetivos](https://github.com/JOHANN28910231/Proyecto-Fis/blob/86400cebdd0f1fcf65ddbfcf8f809c9ba4acfc59/Documentaci%C3%B3n/1.Objetivos.md "Click aquí")
   
-  - [Herramientas y Métodos](https://github.com/JOHANN28910231/Proyecto-Fis/blob/a5becd3c92a86a5375b5ccd450fc00da3af941ff/Documentaci%C3%B3n/5.%20Herramientas%20y%20M%C3%A9todos.md "Click aquí")
+  -- [Descripción del Trabajo]( "Click aquí")
   
-  - [Roles y proceso de trabajo](https://github.com/JOHANN28910231/Proyecto-Fis/blob/d7cad36b0624c6437e6ea2f25eda77c3d15995fa/Documentaci%C3%B3n/6.%20Procesos%20y%20Roles.md "Click aquí")
+  - [Gestión del Proceso]( "Click aquí")
+  
   
   - [Casos de uso](https://github.com/JOHANN28910231/Proyecto-Fis/blob/ba1ce99475c184c8909d111e8f132816a8511f62/Documentaci%C3%B3n/4.%20DiagramaCasosDeUso.md "Click aquí")
   
