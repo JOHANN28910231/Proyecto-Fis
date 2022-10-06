@@ -29,7 +29,7 @@
   
   - [Roles y proceso de trabajo](https://github.com/JOHANN28910231/Proyecto-Fis/blob/d7cad36b0624c6437e6ea2f25eda77c3d15995fa/Documentaci%C3%B3n/6.%20Procesos%20y%20Roles.md "Click aquí")
   
-  - [Casos de uso](4.CasosDeUso.md "Click aquí")
+  - [Casos de uso](https://github.com/JOHANN28910231/Proyecto-Fis/blob/ba1ce99475c184c8909d111e8f132816a8511f62/Documentaci%C3%B3n/4.%20DiagramaCasosDeUso.md "Click aquí")
   
   - [Requerimientos](https://github.com/JOHANN28910231/Proyecto-Fis/blob/a231610adc54a75a66d6d8e96aa18f3598d23bf1/Documentaci%C3%B3n/3.Requerimientos.md "Click aquí")
   - [Bitacora](https://github.com/JOHANN28910231/Proyecto-Fis/tree/main/Bit%C3%A1cora_Primera_Entrega)
