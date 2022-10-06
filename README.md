@@ -26,6 +26,8 @@
   
   - [Objetivos](https://github.com/JOHANN28910231/Proyecto-Fis/blob/86400cebdd0f1fcf65ddbfcf8f809c9ba4acfc59/Documentaci%C3%B3n/1.Objetivos.md "Click aquí")
   
+  - [Innovación/Creatividad](https://github.com/JOHANN28910231/Proyecto-Fis/blob/5231613664bb9f833cc07d8d846e7a4f9bd86772/Documentaci%C3%B3n/2.Innovaci%C3%B3nyCreatividad.md "Click aquí")
+  
   - [Descripción del Trabajo]( "Click aquí")
   
   - [Gestión del Proceso]( "Click aquí")
