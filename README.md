@@ -25,8 +25,10 @@
   
   - [Objetivos](Objetivo.md "Click aquí")
   - [Herramientas y Métodos](https://github.com/JOHANN28910231/Proyecto-Fis/blob/a5becd3c92a86a5375b5ccd450fc00da3af941ff/Documentaci%C3%B3n/5.%20Herramientas%20y%20M%C3%A9todos.md "Click aquí")
-  - [Roles y proceso de trabajo]( "Click aquí")
+  
+  - [Roles y proceso de trabajo](https://github.com/JOHANN28910231/Proyecto-Fis/blob/d7cad36b0624c6437e6ea2f25eda77c3d15995fa/Documentaci%C3%B3n/6.%20Procesos%20y%20Roles.md "Click aquí")
   - [Casos de uso](4.CasosDeUso.md "Click aquí")
+  
   - [Requerimientos](https://github.com/JOHANN28910231/Proyecto-Fis/blob/a231610adc54a75a66d6d8e96aa18f3598d23bf1/Documentaci%C3%B3n/3.Requerimientos.md "Click aquí")
   - [Bitacora](https://github.com/JOHANN28910231/Proyecto-Fis/tree/main/Bit%C3%A1cora_Primera_Entrega)
   
