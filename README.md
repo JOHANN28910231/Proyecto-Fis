@@ -32,7 +32,7 @@
   
   -[Artefactos]("Click aquí")
   
-  - [Descripción del proceso]
+  - [Descripción del proceso](https://github.com/JOHANN28910231/Proyecto-Fis/blob/064d6f8a7fee1135d0fbcd6e9d05105a77a437d0/Documentaci%C3%B3n/6.%20Descripci%C3%B3n%20del%20proceso.md "Click aquí")
   
   - [Gestión del Proceso]( "Click aquí")
   
@@ -40,7 +40,7 @@
   - [Casos de uso](https://github.com/JOHANN28910231/Proyecto-Fis/blob/ba1ce99475c184c8909d111e8f132816a8511f62/Documentaci%C3%B3n/4.%20DiagramaCasosDeUso.md "Click aquí")
   
   
-  - [Bitacora](https://github.com/JOHANN28910231/Proyecto-Fis/tree/main/Bit%C3%A1cora_Primera_Entrega)
+  - [Bitacora]()
   
    
   ##  Bitácoras de las sesiones
