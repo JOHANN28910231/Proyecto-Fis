@@ -36,11 +36,13 @@
   
   - [Descripción del proceso](https://github.com/JOHANN28910231/Proyecto-Fis/blob/064d6f8a7fee1135d0fbcd6e9d05105a77a437d0/Documentaci%C3%B3n/6.%20Descripci%C3%B3n%20del%20proceso.md "Click aquí")
   
-  - [Gestión del Proceso]( "Click aquí")
+  - [Gestión del Proceso](https://github.com/JOHANN28910231/Proyecto-Fis/blob/bb935d7d61f8a2fc2b464a0142d99b6a9df74a19/Documentaci%C3%B3n/5.%20Gesti%C3%B3n%20del%20Proceso.md "Click aquí")
   
-  - [Traker de Contribución]()
+  - [Traker de Contribución](https://github.com/JOHANN28910231/Proyecto-Fis/blob/8e20439085b4a61a51a7e460e890819508017dac/Documentaci%C3%B3n/7.%20M%C3%A9trica%20de%20Contribuci%C3%B3n%20Individual.md "Click aquí")
   
   - [Casos de uso](https://github.com/JOHANN28910231/Proyecto-Fis/blob/71c6dc4dedc52d84e424567ca57b17972d9e54a6/Documentaci%C3%B3n/4.%20DiagramaCasosDeUso.md "Click aquí")
+  
+  - [Competencias de la Asignatura]( "Click aquí")
   
   
   
