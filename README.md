@@ -27,7 +27,7 @@
   - [Herramientas y métodos](5.HerramientasyMétodos.md "Click aquí")
   - [Roles y proceso de trabajo](6.ProcesosyRoles.md "Click aquí")
   - [Casos de uso](4.CasosDeUso.md "Click aquí")
-  - [Requerimientos](3.Requerimientos.md "Click aquí")
+  - [Requerimientos](https://github.com/JOHANN28910231/Proyecto-Fis/blob/a231610adc54a75a66d6d8e96aa18f3598d23bf1/Documentaci%C3%B3n/3.Requerimientos.md "Click aquí")
   - [Bitacora](https://github.com/JOHANN28910231/Proyecto-Fis/tree/main/Bit%C3%A1cora_Primera_Entrega)
   
    
