@@ -1,0 +1,24 @@
+# Artefactos
+---
+
+Diagrama de casos de uso: el diagrama de uso nos ayuda a visualizar las interacciones que tendrán los usuarios con la aplicación y la correcta implementación de los requerimientos.
+
+Requerimientos: los requerimientos fueron adquiridos mediante reuniones con el cliente para definir cuales son las funcionalidades que se desean.
+[![reunion.png](https://i.postimg.cc/SQVVPD8M/reunion.png)](https://postimg.cc/4n7z7vWf)
+
+(Imagen de referencia)
+
+Encuestas: La encuestas son realizadas a los usuarios para determinar funciones que puedan integrarse a los requerimientos como puede ser  la necesidad de saber los espacios disponibles pues así los usuarios están informados de si podrán abordar o no el colectivo.
+[![encuesta.jpg](https://i.postimg.cc/L6w56FLF/encuesta.jpg)](https://postimg.cc/rKGMQbff)
+
+(Imagen de referencia)
+
+Manual de usuario: se realizará un documento para la especificación de las funciones e interfaces del usuario para que sepa como utilizar la aplicación este documento será realizado de una manera en que el usuario podrá entender las indicaciones y los apartados de la aplicación.
+[![interfaz.png](https://i.postimg.cc/xdbKTPct/interfaz.png)](https://postimg.cc/7CwCK012)
+
+(Imagen de referencia)
+
+Google Maps: Esta herramienta es la que utilizaremos para obtener su ubicación geográfica de los  colectivos en tiempo real así como para definir las rutas que tomará el transporte.
+[![mapa.png](https://i.postimg.cc/DZ8RzH1R/mapa.png)](https://postimg.cc/MMJ9PsPY)
+
+(Imagen de referencia)
