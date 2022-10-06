@@ -35,7 +35,8 @@
   
   - [Casos de uso](https://github.com/JOHANN28910231/Proyecto-Fis/blob/ba1ce99475c184c8909d111e8f132816a8511f62/Documentaci%C3%B3n/4.%20DiagramaCasosDeUso.md "Click aquí")
   
-  - [Requerimientos](https://github.com/JOHANN28910231/Proyecto-Fis/blob/a231610adc54a75a66d6d8e96aa18f3598d23bf1/Documentaci%C3%B3n/3.Requerimientos.md "Click aquí")
+  - [Requerimientos](https://github.com/JOHANN28910231/Proyecto-Fis/blob/0c9540e4803d09763eda22e8f586a2a4e305eb92/Documentaci%C3%B3n/3.Requerimientos%20y%20Priorizaci%C3%B3n.md "Click aquí")
+  
   - [Bitacora](https://github.com/JOHANN28910231/Proyecto-Fis/tree/main/Bit%C3%A1cora_Primera_Entrega)
   
    
