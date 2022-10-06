@@ -43,7 +43,7 @@
 
 > - [22 de Septiembre del 2022](https://github.com/JOHANN28910231/Proyecto-Fis/blob/d8fa565503df77e7df412cfb4c75328ae9d21503/Bit%C3%A1cora_Primera_Entrega/Reuni%C3%B3nDeTrabajo2.md "Click aquí").
 
-> - [29de Septiembre del 2022](https://github.com/JOHANN28910231/Proyecto-Fis/blob/d8fa565503df77e7df412cfb4c75328ae9d21503/Bit%C3%A1cora_Primera_Entrega/ReunionDeTrabajo3.md "Click aquí").
+> - [29 de Septiembre del 2022](https://github.com/JOHANN28910231/Proyecto-Fis/blob/d8fa565503df77e7df412cfb4c75328ae9d21503/Bit%C3%A1cora_Primera_Entrega/ReunionDeTrabajo3.md "Click aquí").
 
 > - [3 de Octubre del 2022](https://github.com/JOHANN28910231/Proyecto-Fis/blob/d8fa565503df77e7df412cfb4c75328ae9d21503/Bit%C3%A1cora_Primera_Entrega/ReunionDeTrabajo4.md "Click aquí").
 
