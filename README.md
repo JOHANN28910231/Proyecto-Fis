@@ -38,9 +38,9 @@
   
   - [Gestión del Proceso]( "Click aquí")
   
-  - [Traker de Contribución]
+  - [Traker de Contribución]()
   
-  - [Casos de uso]( "Click aquí")
+  - [Casos de uso](https://github.com/JOHANN28910231/Proyecto-Fis/blob/71c6dc4dedc52d84e424567ca57b17972d9e54a6/Documentaci%C3%B3n/4.%20DiagramaCasosDeUso.md "Click aquí")
   
   
   
