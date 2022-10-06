@@ -49,6 +49,6 @@
 
 ###  Primera entrega:
 
-- [ Diapositiva ]()
+- [ Diapositiva ](https://alumnosuady-my.sharepoint.com/:p:/g/personal/a22216888_alumnos_uady_mx/EWXMmcUQgvhButoQ2xx2MioB1tur57R4NW32MmiA7fkYEg?e=N0zWXX "Click aquí")
 
 - [ Presentación ]()
