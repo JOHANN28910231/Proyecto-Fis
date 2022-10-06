@@ -19,7 +19,7 @@
   Estudiantes de nuevo ingreso pertenecientes a la Universidad Autónoma de Yucatán en la Unidad Multidisciplinaria Tizimín
 
 - ### Secundarios:
- Todos los choferes de combis de la ciudad de Tizimín, Yucatán, con un perfil propio
+  Todos los choferes de combis de la ciudad de Tizimín, Yucatán, con un perfil propio
 
   
   ##  Contenido 
