@@ -28,9 +28,9 @@
   
   - [Innovación/Creatividad](https://github.com/JOHANN28910231/Proyecto-Fis/blob/5231613664bb9f833cc07d8d846e7a4f9bd86772/Documentaci%C3%B3n/2.Innovaci%C3%B3nyCreatividad.md "Click aquí")
   
-  - [Requerimientos]("Click aquí)
+  - [Requerimientos](https://github.com/JOHANN28910231/Proyecto-Fis/blob/fc6fa2c41a8457f6e96f8468abd6b4344deff36b/Documentaci%C3%B3n/3.Requerimientos%20y%20Priorizaci%C3%B3n.md "Click aquí)
   
-  -[Artefactos]("Click aquí")
+  -[Artefactos](https://github.com/JOHANN28910231/Proyecto-Fis/blob/fc6fa2c41a8457f6e96f8468abd6b4344deff36b/Documentaci%C3%B3n/9.Artefactos.md "Click aquí")
   
   - [Descripción del proceso](https://github.com/JOHANN28910231/Proyecto-Fis/blob/064d6f8a7fee1135d0fbcd6e9d05105a77a437d0/Documentaci%C3%B3n/6.%20Descripci%C3%B3n%20del%20proceso.md "Click aquí")
   
