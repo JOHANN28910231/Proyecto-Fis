@@ -26,7 +26,7 @@
   
   - [Bitacora](https://github.com/JOHANN28910231/Proyecto-Fis/tree/main/Bit%C3%A1cora_Primera_Entrega "Click aquí")
   
-  - [Objetivos](https://github.com/JOHANN28910231/Proyecto-Fis/blob/86400cebdd0f1fcf65ddbfcf8f809c9ba4acfc59/Documentaci%C3%B3n/1.Objetivos.md "Click aquí")
+  - [Objetivos](https://github.com/JOHANN28910231/Proyecto-Fis/blob/45a28217164279a22b5efd4ad177c61e09f679e9/Documentaci%C3%B3n/1.Objetivos.md "Click aquí")
   
   - [Innovación/Creatividad](https://github.com/JOHANN28910231/Proyecto-Fis/blob/5231613664bb9f833cc07d8d846e7a4f9bd86772/Documentaci%C3%B3n/2.Innovaci%C3%B3nyCreatividad.md "Click aquí")
   
