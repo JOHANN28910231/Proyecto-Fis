@@ -26,7 +26,7 @@
   
   - [Objetivos](https://github.com/JOHANN28910231/Proyecto-Fis/blob/86400cebdd0f1fcf65ddbfcf8f809c9ba4acfc59/Documentaci%C3%B3n/1.Objetivos.md "Click aquí")
   
-  -- [Descripción del Trabajo]( "Click aquí")
+  - [Descripción del Trabajo]( "Click aquí")
   
   - [Gestión del Proceso]( "Click aquí")
   
