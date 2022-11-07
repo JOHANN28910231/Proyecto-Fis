@@ -66,4 +66,4 @@
 
 ### Resumen de la Segunda Entrega
 
-- [Construcción]()
+- [Construcción](https://github.com/JOHANN28910231/Proyecto-Fis/blob/eae09e2933184b396546cf54c7b082b4e8bb278d/DocumentacionSegundaEntrega/Construccion.md)
