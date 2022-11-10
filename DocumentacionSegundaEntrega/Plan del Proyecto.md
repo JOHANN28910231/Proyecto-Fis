@@ -27,5 +27,6 @@ El monitoreo de cada una de las actividades realizadas por los integrantes  medi
 ---
 
 ## Seguimiento de un proceso definido
-
+El seguimiento se ha estado dando mediante el software Jira, nos guiamos mediante scrum, en el cual los avances se establecían mediante scrum.
+- https://johann2810.atlassian.net/jira/core/projects/RUC/board
 
