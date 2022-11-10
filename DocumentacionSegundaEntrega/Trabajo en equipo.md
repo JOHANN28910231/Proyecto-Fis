@@ -14,6 +14,8 @@ Se lleva actualmente un 75% en la totalidad de todo el proyecto
 | Presentación del Avance | Itzel Medina | sí | 14 de Noviembre | 
 | Trabajo en equipo | Itzel Medina | sí | 14 de noviembre |
 
+#
+#
 ##  Porcentaje individual de contribución medido de forma objetiva 
 ![Porcentaje](https://user-images.githubusercontent.com/112908528/201228500-5f0e3ab9-bbad-4820-abf2-de7765d75a4d.jpg)
 
