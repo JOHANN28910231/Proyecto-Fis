@@ -27,6 +27,7 @@ En todo el interfaz se usaron los colores que caracterizan a la Universidad Aut�
 * Interfaz de la página principal de los conductores de las combis. Después de registrarse, esta sería la página que vean al abrir la aplicación.
 Tiene un botón donde entra al apartado que usará para registrar la entrada/salida de pasajeros.
 En la parte inferior tiene un mapa de ubicación en tiempo real.
+
 [![interfaz-de-ruta.png](https://i.postimg.cc/rw6YvKkf/interfaz-de-ruta.png)](https://postimg.cc/ykPPR6WR)
 
 * Interfaz de la página principal de los alumnos de la UMT. Después de registrarse, esta sería la página que vean al abrir la aplicación.
