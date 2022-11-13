@@ -19,6 +19,7 @@ En todo el interfaz se usaron los colores que caracterizan a la Universidad Aut�
 ---
 ### Bosquejo del producto
 * Pantalla de inicio donde se aceptarán términos y condiciones de uso, a los usuarios se les es otorgado información inicial y, en esa misma pantalla, elegir el tipo de usuario que son (alumno o conductor de transporte público).
+[![pantalla-de-inicio.png](https://i.postimg.cc/W3pyXCvj/pantalla-de-inicio.png)](https://postimg.cc/8F3wCycn)
 * Pantalla de registro. Los cuadros blancos, acompañados de otros cuadros en la parte posterior, indican el tipo de información que el usuario deberá otorgar para realizar su perfil dentro de la aplicación.
 * Interfaz de la página principal de los conductores de las combis. Después de registrarse, esta sería la página que vean al abrir la aplicación.
 Tiene un botón donde entra al apartado que usará para registrar la entrada/salida de pasajeros.
