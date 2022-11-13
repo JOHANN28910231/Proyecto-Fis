@@ -22,7 +22,7 @@ En todo el interfaz se usaron los colores que caracterizan a la Universidad Aut�
 [![pantalla-de-inicio.png](https://i.postimg.cc/W3pyXCvj/pantalla-de-inicio.png)](https://postimg.cc/8F3wCycn)
 
 * Pantalla de registro. Los cuadros blancos, acompañados de otros cuadros en la parte posterior, indican el tipo de información que el usuario deberá otorgar para realizar su perfil dentro de la aplicación.
-[![pantalla-de-inicio.png](https://i.postimg.cc/W3pyXCvj/pantalla-de-inicio.png)](https://postimg.cc/8F3wCycn)
+[![pantalla-de-registro.png](https://i.postimg.cc/4yqF43hN/pantalla-de-registro.png)](https://postimg.cc/LgkVN2Tr)
 
 * Interfaz de la página principal de los conductores de las combis. Después de registrarse, esta sería la página que vean al abrir la aplicación.
 Tiene un botón donde entra al apartado que usará para registrar la entrada/salida de pasajeros.
