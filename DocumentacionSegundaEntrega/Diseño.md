@@ -7,17 +7,29 @@ En todo el interfaz se usaron los colores que caracterizan a la Universidad Aut�
 
 #### Fuentes utilizadas:
 * Post No Bills Colombo
+
 [![o-bills.png](https://i.postimg.cc/XJLN7GPF/o-bills.png)](https://postimg.cc/1ng1vts5)
+
 * Offside
+
 [![ofside.png](https://i.postimg.cc/rmfcL6dN/ofside.png)](https://postimg.cc/Kk3CnHD1)
+
 * Odibee Sans
+
 [![odbie.png](https://i.postimg.cc/SQwQQhTg/odbie.png)](https://postimg.cc/4nQRwrTc)
+
 * Monomaniac One
+
 [![monomaniac.png](https://i.postimg.cc/ZK79xgV3/monomaniac.png)](https://postimg.cc/ppjX20NX)
+
 * Arya
+
 [![arya.png](https://i.postimg.cc/QMWWtbg7/arya.png)](https://postimg.cc/gwm0t3Tc)
+
 * Nunito
+
 [![ninitop.png](https://i.postimg.cc/tRD79w0f/ninitop.png)](https://postimg.cc/yWg7Pf8X)
+
 
 #### El producto consiste en algunos apartados como:
 -Pantalla principal al abrir la aplicación por primera vez. En esta pantalla, los usuarios aceptarán términos y condiciones de uso, además de que se les es otorgado información inicial y, en esa misma pantalla, elegir el tipo de usuario que son (alumno o conductor de transporte público).
