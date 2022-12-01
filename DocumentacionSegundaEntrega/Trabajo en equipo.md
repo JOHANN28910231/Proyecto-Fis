@@ -1,6 +1,6 @@
 ## Porcentaje de Avances
 
-Se lleva actualmente un 75% en la totalidad de todo el proyecto
+Se lleva actualmente un 85% en la totalidad de todo el proyecto
 
 ## Responsabilidades
 # Métrica de Contribución Individual y En equipo
