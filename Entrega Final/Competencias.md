@@ -12,7 +12,7 @@
 | Resumen de los avances realizados entre entregas | Gestión | Se logró una documentación ordenada y entendible de los avances del equipo en casa una de sus entregas anteriores.
 || Capacidad para identificar, plantear y resolver problemas. | Se logró redactar cada uno de los problemas que fueron identificados y resueltos dentro del equipo.
 || Cumplimiento de roles asignados. | Se logró que cada uno de los integrantes pudieran entregar partes del proyecto terminados para cada entrega.
-| Plan del Proyecto ||Preparación personal | Se logró que cada integrante esté preparado para cada una de las áreas que se identificaban dentro de la planificación.
+| Plan del Proyecto | Preparación personal | Se logró que cada integrante esté preparado para cada una de las áreas que se identificaban dentro de la planificación.
 || Responsabilidades | Se asignaron responsabilidades para algunos integrantes del equipo, que actuarían como responsables del área de elaboración del proyecto.
 || Planificación | Se logró que el proyecto sea correctamente planificado para que las entregas sean en tiempo y forma, además de poder contar con tiempos extra por si ocurría algún inconveniente.
 | Presentaciones de Avance | Aprendizaje continuo | En cada presentación se obtuvo una retroalimentación por parte del profesor, en la que el equipo pudo saber en qué mejorar.
