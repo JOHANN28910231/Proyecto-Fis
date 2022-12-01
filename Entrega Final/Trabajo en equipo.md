@@ -11,14 +11,19 @@ Entrega final: Con esta entrega final estaríamos completando el 100% de nuestro
 ## Roles
 
 ScrumMaster: Johann
+
 Product Owner: Itzel
+
 Desarrollador: Jazmin, Itzel y Valeria. 
 
 ## Responsabilidades 
 
 Johann: Resumen del producto en términos de las fases de desarrollo y Presentación del producto final al cliente.
+
 Jazmin: Resumen de los avances realizados entre las tres entregas
+
 Itzel: Presentación del avance y Trabajo en equipo
+
 Valeria: Adquerimiento de las competencias a través del desarrollo del producto. 
 
 [![imagen-2022-12-01-012459266.png](https://i.postimg.cc/RZWJKxVK/imagen-2022-12-01-012459266.png)](https://postimg.cc/18Zz1TF3)
