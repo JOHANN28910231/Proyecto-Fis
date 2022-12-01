@@ -27,3 +27,7 @@ Itzel: Presentación del avance y Trabajo en equipo
 Valeria: Adquerimiento de las competencias a través del desarrollo del producto. 
 
 [![imagen-2022-12-01-012459266.png](https://i.postimg.cc/RZWJKxVK/imagen-2022-12-01-012459266.png)](https://postimg.cc/18Zz1TF3)
+
+## Proceso de Trabajo Definido
+
+Gracias a la metodología ágil Scrum, nos permitió llevar un proceso de trabajo eficaz.
